@@ -1,0 +1,248 @@
+{
+    "535634": {
+        "article_date_timestamp": 1673850600.0,
+        "article_title": "Заражённые VPN-клиенты распространяют шпионское ПО",
+        "article_url": "https://www.securitylab.ru/news/535634.php",
+        "article_desc": "Кампания направлена на шпионаж за иранцами, которые пытаются обойти ограничения интернета в стране."
+    },
+    "535633": {
+        "article_date_timestamp": 1673848800.0,
+        "article_title": "Франция оштрафовала TikTok 5 млн. евро за принудительный сбор cookie-файлов пользователей",
+        "article_url": "https://www.securitylab.ru/news/535633.php",
+        "article_desc": "Запутанный процесс отказа от передачи куки-файлов вынуждает пользователя согласиться на их сбор."
+    },
+    "535630": {
+        "article_date_timestamp": 1673845200.0,
+        "article_title": "NVIDIA представила deepfake-технологию, которая заставляет пользователя смотреть прямо в камеру",
+        "article_url": "https://www.securitylab.ru/news/535630.php",
+        "article_desc": "Эффект зрительного контакта NVIDIA направляет глаза пользователя на камеру во время видеоконференций."
+    },
+    "535636": {
+        "article_date_timestamp": 1673807151.0,
+        "article_title": "В свободном доступе оказались личные данные партнеров и сотрудников группы «Самолет»",
+        "article_url": "https://www.securitylab.ru/news/535636.php",
+        "article_desc": "Обнародованная база содержит более 20500 строк, среди которых - личные данные, адреса электронной почты и номера телефонов."
+    },
+    "535631": {
+        "article_date_timestamp": 1673803147.0,
+        "article_title": "Приложение для учета рабочего времени привело к увольнению сотрудника компании",
+        "article_url": "https://www.securitylab.ru/news/535631.php",
+        "article_desc": "Бухгалтер компании хотела обмануть работодателя, но не учла возможности программы мониторинга."
+    },
+    "535635": {
+        "article_date_timestamp": 1673795706.0,
+        "article_title": "Большая часть интернет-серверов Cacti подвержена взлому",
+        "article_url": "https://www.securitylab.ru/news/535635.php",
+        "article_desc": "Киберпреступники активно проводят кибератаки, используя неисправленную критическую уязвимость."
+    },
+    "535632": {
+        "article_date_timestamp": 1673784065.0,
+        "article_title": "Intel тайно вернулась в Россию",
+        "article_url": "https://www.securitylab.ru/news/535632.php",
+        "article_desc": "Intel вернула доступ к драйверам для российских пользователей."
+    },
+    "535629": {
+        "article_date_timestamp": 1673779021.0,
+        "article_title": "Взломаны системы менеджера пароля Norton",
+        "article_url": "https://www.securitylab.ru/news/535629.php",
+        "article_desc": "Личные данные и пароли пользователей оказались в руках неизвестного злоумышленника."
+    },
+    "535628": {
+        "article_date_timestamp": 1673707004.0,
+        "article_title": "Стало известно, кто стоит за декабрьской кибератакой на австралийскую пожарную службу",
+        "article_url": "https://www.securitylab.ru/news/535628.php",
+        "article_desc": "Ответственность за произошедшее взяла на себя группировка Vice Society."
+    },
+    "535627": {
+        "article_date_timestamp": 1673704530.0,
+        "article_title": "Google: решение суда об ответственности IT-компаний за модерацию подорвет основы интернета",
+        "article_url": "https://www.securitylab.ru/news/535627.php",
+        "article_desc": "Google утверждает, что новая инициатива вынудит Google и другие технологические компании еще более активно модерировать контент."
+    },
+    "535626": {
+        "article_date_timestamp": 1673703476.0,
+        "article_title": "Chainalysis: Объем связанной с незаконной деятельностью криптовалюты в 2022 году превысил $20 млрд",
+        "article_url": "https://www.securitylab.ru/news/535626.php",
+        "article_desc": "В частности, по данным отчета, возросли транзакции с участием компаний, на которые распространяются санкции США."
+    },
+    "535650": {
+        "article_date_timestamp": 1673860300.0,
+        "article_title": "CircleCI: хакеры похитили ключи шифрования и данные клиентов",
+        "article_url": "https://www.securitylab.ru/news/535650.php",
+        "article_desc": "Всё было слито без лишнего шума, на выявление утечки ушло время."
+    },
+    "535654": {
+        "article_date_timestamp": 1673858450.0,
+        "article_title": "Positive Technologies: большинство атак в 2022 году совершают квалифицированные злоумышленники",
+        "article_url": "https://www.securitylab.ru/news/535654.php",
+        "article_desc": "Эксперты PT Expert Security Center рассказали о результатах расследований киберинцидентов в минувшем году."
+    },
+    "535678": {
+        "article_date_timestamp": 1673893610.0,
+        "article_title": "Brave Snowflake: коллективный обход блокировок",
+        "article_url": "https://www.securitylab.ru/news/535678.php",
+        "article_desc": "Прокси-сервер теперь можно поднять прямо из окна браузера."
+    },
+    "535688": {
+        "article_date_timestamp": 1673890591.0,
+        "article_title": "Киберпреступники задефейсили веб-сайт ODIN Intelligence",
+        "article_url": "https://www.securitylab.ru/news/535688.php",
+        "article_desc": "Пока неизвестно, кто стоит за атакой на компанию, предоставляющей технологии и инструменты для правоохранительных органов."
+    },
+    "535681": {
+        "article_date_timestamp": 1673886096.0,
+        "article_title": "В комплекте с бюджетной Smart-TV приставкой T95 шло вредоносное ПО",
+        "article_url": "https://www.securitylab.ru/news/535681.php",
+        "article_desc": "Приставка до сих пор свободно продается на Amazon, подвергая тысячи потенциальных покупателей опасности."
+    },
+    "535665": {
+        "article_date_timestamp": 1673885400.0,
+        "article_title": "В Google Chrome обнаружена новая уязвимость",
+        "article_url": "https://www.securitylab.ru/news/535665.php",
+        "article_desc": "Брешь в системе безопасности поставила под угрозу данные двух миллиардов пользователей."
+    },
+    "535664": {
+        "article_date_timestamp": 1673881813.0,
+        "article_title": "Федеральное бюро расследований снова взломало даркнет",
+        "article_url": "https://www.securitylab.ru/news/535664.php",
+        "article_desc": "Всегда найдётся рыба покрупнее…"
+    },
+    "535674": {
+        "article_date_timestamp": 1673880749.0,
+        "article_title": "Группировка Magecart наживается на канадских любителях выпить",
+        "article_url": "https://www.securitylab.ru/news/535674.php",
+        "article_desc": "Злоумышленники внедрили на сайт LCBO вредоносный код, позволяющий хакерам похищать информацию о жертве при оформлении заказа."
+    },
+    "535809": {
+        "article_date_timestamp": 1674035746.0,
+        "article_title": "Исследование Positive Technologies: новые шифровальщики под Linux, вредоносы под видом моделей машинного обучения и двукратный рост атак на крипту",
+        "article_url": "https://www.securitylab.ru/news/535809.php",
+        "article_desc": "Эксперты Positive Technologies подвели киберитоги 2022 года и поделились прогнозами на 2023 год."
+    },
+    "535805": {
+        "article_date_timestamp": 1674034200.0,
+        "article_title": "Уязвимости маршрутизаторов InHand ставят под угрозу тысячи устройств по всему миру",
+        "article_url": "https://www.securitylab.ru/news/535805.php",
+        "article_desc": "Злоумышленники могут влиять на работу десятков промышленных объектов в разных странах."
+    },
+    "535804": {
+        "article_date_timestamp": 1674032491.0,
+        "article_title": "Функция GitHub может привести к массовым заражениям цепочек поставок ПО",
+        "article_url": "https://www.securitylab.ru/news/535804.php",
+        "article_desc": "Злоумышленники могут использовать опцию в GitHub Codespaces для доставки вредоносного ПО в системы жертв."
+    },
+    "535802": {
+        "article_date_timestamp": 1674030733.0,
+        "article_title": "После взлома менеджера паролей Norton заблокировано почти 1 млн. аккаунтов",
+        "article_url": "https://www.securitylab.ru/news/535802.php",
+        "article_desc": "Причина атаки элементарная – слабые пароли для входа в учетную запись."
+    },
+    "535788": {
+        "article_date_timestamp": 1674029095.0,
+        "article_title": "Blizzard прекращает работу в Китае",
+        "article_url": "https://www.securitylab.ru/news/535788.php",
+        "article_desc": "Оператор игр NetEasy отказался от сотрудничества с Blizzard."
+    },
+    "535752": {
+        "article_date_timestamp": 1673990460.0,
+        "article_title": "Пользователи MetaMask страдают от очередной уловки мошенников",
+        "article_url": "https://www.securitylab.ru/news/535752.php",
+        "article_desc": "На этот раз предприимчивые киберпреступники сыграли на человеческой невнимательности."
+    },
+    "535751": {
+        "article_date_timestamp": 1673974800.0,
+        "article_title": "Китай ожидает существенного развития индустрии информационной безопасности к 2025 году",
+        "article_url": "https://www.securitylab.ru/news/535751.php",
+        "article_desc": "Для этого планируется увеличить финансирование и создать множество новых предприятий в отрасли."
+    },
+    "535750": {
+        "article_date_timestamp": 1673971200.0,
+        "article_title": "Avast выпустила дешифратор от программ-вымогателей BianLian",
+        "article_url": "https://www.securitylab.ru/news/535750.php",
+        "article_desc": "Софт бесплатный и уже доступен на официальном сайте компании."
+    },
+    "535747": {
+        "article_date_timestamp": 1673969400.0,
+        "article_title": "Разработчики в опасности: вредоносные пакеты были размещены на популярном репозитории",
+        "article_url": "https://www.securitylab.ru/news/535747.php",
+        "article_desc": "Зловредный софт успели скачать на свой компьютер несколько сотен человек."
+    },
+    "535742": {
+        "article_date_timestamp": 1673967000.0,
+        "article_title": "Троянский конь: похитители данных проникают на компьютер вместе с пиратским софтом",
+        "article_url": "https://www.securitylab.ru/news/535742.php",
+        "article_desc": "Зловредные программы Raccoon и Vidar уже давно распространяются через сайты со взломанным ПО."
+    },
+    "535749": {
+        "article_date_timestamp": 1673964052.0,
+        "article_title": "Positive Technologies: какие уязвимости будут главными угрозами в 2023 году",
+        "article_url": "https://www.securitylab.ru/news/535749.php",
+        "article_desc": "Positive Technologies рассказали, какие уязвимости будут представлять наибольшую ценность среди злоумышленников в 2023 году."
+    },
+    "535748": {
+        "article_date_timestamp": 1673962163.0,
+        "article_title": "MSI случайно сломала функцию безопасной настройки для своих материнских плат",
+        "article_url": "https://www.securitylab.ru/news/535748.php",
+        "article_desc": "Компания никак не документировала свою ошибку, зато сделала своих клиентов уязвимыми."
+    },
+    "535728": {
+        "article_date_timestamp": 1673949049.0,
+        "article_title": "Куба использует критическую уязвимость для взлома серверов Microsoft Exchange",
+        "article_url": "https://www.securitylab.ru/news/535728.php",
+        "article_desc": "Речь не про страну, а про опасную группировку вымогателей."
+    },
+    "535721": {
+        "article_date_timestamp": 1673947182.0,
+        "article_title": "Слитый исходный код Hive послужил основой новому бэкдору",
+        "article_url": "https://www.securitylab.ru/news/535721.php",
+        "article_desc": "Хакеры использовали наработки ЦРУ, чтобы написать зловред покруче."
+    },
+    "535722": {
+        "article_date_timestamp": 1673944348.0,
+        "article_title": "Энтузиаст превратил старую пишущую машинку в чат-бота",
+        "article_url": "https://www.securitylab.ru/news/535722.php",
+        "article_desc": "Ghostwriter — это артефакт из прошлого, основанный на языковой модели от OpenAI."
+    },
+    "535819": {
+        "article_date_timestamp": 1674048600.0,
+        "article_title": "Белые хакеры вынудят разработчиков ManageEngine закрыть критическую уязвимость",
+        "article_url": "https://www.securitylab.ru/news/535819.php",
+        "article_desc": "PoC-эксплоит планируют выложить в открытый доступ до конца недели."
+    },
+    "535815": {
+        "article_date_timestamp": 1674046276.0,
+        "article_title": "Microsoft создала метадеревню, в которой будут решаться глобальные проблемы человечества",
+        "article_url": "https://www.securitylab.ru/news/535815.php",
+        "article_desc": "Виртуальное арт-пространство является совместной разработкой Microsoft и Всемирного экономического форума."
+    },
+    "535813": {
+        "article_date_timestamp": 1674042600.0,
+        "article_title": "Group-IB предупредила о главных киберугрозах 2023 года",
+        "article_url": "https://www.securitylab.ru/news/535813.php",
+        "article_desc": "В Group-IB уверены, что в 2023 году империя программ-вымогателей сохранит лидерство в рейтинге киберугроз для бизнеса."
+    },
+    "535814": {
+        "article_date_timestamp": 1674041860.0,
+        "article_title": "Нидерланды отказываются принять американские требования по ограничению поставок оборудования для производства чипов в Китай",
+        "article_url": "https://www.securitylab.ru/news/535814.php",
+        "article_desc": "Нидерланды ведут консультации с европейскими и азиатскими союзниками"
+    },
+    "535812": {
+        "article_date_timestamp": 1674041400.0,
+        "article_title": "Атака программ-вымогателей повлияла на работу тысячи морских судов",
+        "article_url": "https://www.securitylab.ru/news/535812.php",
+        "article_desc": "Около 70 компаний в сфере судоходства пострадали от атаки на крупного поставщика программного обеспечения."
+    },
+    "535811": {
+        "article_date_timestamp": 1674039312.0,
+        "article_title": "Microsoft планирует существенно сократить число своих сотрудников",
+        "article_url": "https://www.securitylab.ru/news/535811.php",
+        "article_desc": "Официальное объявление может быть сделано в ближайшие дни."
+    },
+    "535810": {
+        "article_date_timestamp": 1674036960.0,
+        "article_title": "Роскомнадзор предупредил о фальшивой рассылке с угрозами от своего имени",
+        "article_url": "https://www.securitylab.ru/news/535810.php",
+        "article_desc": "Сообщения содержат ложные уведомления о нахождении запрещённой информации и предостережения о возможной блокировке."
+    }
+}
